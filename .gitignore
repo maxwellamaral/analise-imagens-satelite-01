@@ -1,0 +1,39 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+
+# Arquivos de ambiente virtual
+venv/
+env/
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+.cache/
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos de configuração
+*.ini
+*.cfg
+*.conf
+
+# Arquivos de dados sensíveis
+*.env
+*.key
+
+# Outros arquivos temporários
+*.swp
+*.swo
+*.tmp
+*.bak
+*.~lock.*
+
+.ipynb_checkpoints/
+.vscode/
+temp/
+.analise-satelite-projeto-01-e926fdb56ea9.json
