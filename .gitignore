@@ -36,4 +36,5 @@ dist/
 .ipynb_checkpoints/
 .vscode/
 temp/
+data/
 .analise-satelite-projeto-01-e926fdb56ea9.json
